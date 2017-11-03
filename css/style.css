@@ -53,6 +53,10 @@ body {
   color:white;
 }
 
+.calc {
+  font-size: 15px;
+}
+
 .btn:hover {
   color:white;
 }
